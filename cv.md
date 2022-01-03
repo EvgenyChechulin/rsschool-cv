@@ -6,8 +6,8 @@
 
 ## Education
 
-## Language
-
 ## Skills
+
+## Language
 
 ## Example code
